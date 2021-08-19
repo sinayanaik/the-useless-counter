@@ -47,3 +47,20 @@ button{
 	text-shadow:0px -1px 0px #7a2a1d;
 
 }
+@media(max-width:500px){
+    button{
+        font-size: 10px;
+        padding: 2px 2px;
+    }
+    .container h2{
+        color:#E2E8CE ;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+    .box h1{
+        font-weight: bold;
+        font-size: 2rem;
+        color: rgb(27, 8, 4);
+    }
+    
+}
